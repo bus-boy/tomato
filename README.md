@@ -18,8 +18,3 @@ good code
  ```javascript
 document.getElementById("ts").innerHTML="Hello"
 ```
-## join in ours
-  [百度]（https://baidu.com "xianshi"）
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
-  ![百度](https://www.baidu.com/img/baidu_jgylogo3.gif) [CSDN]（https://www.csdn.net）
