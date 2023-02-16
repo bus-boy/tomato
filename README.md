@@ -18,3 +18,5 @@ good code
  ```javascript
 document.getElementById("ts").innerHTML="Hello"
 ```
+
+## how to use
